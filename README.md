@@ -1,2 +1,1 @@
-# VoiceTAP.ai
-T-Translation A-Analysis P-Prediction
+**VoiceTAP.ai** (Voice **T**ranslation, **A**nalysis, and **P**rediction) is an AI-powered voice processing framework that allows seamless speech translation, deep audio analysis, and predictive modeling from voice data. Designed for researchers, developers, and real-time applications, VoiceTAP leverages state-of-the-art machine learning models to extract meaningful insights from spoken language.
